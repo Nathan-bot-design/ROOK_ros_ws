@@ -1,7 +1,7 @@
 # R.O.O.K and ECHO
 
 Welcome to **ROOK DROID and ECHO** teams workspace for the [Robotics Dojo 2024](https://roboticsdojo.github.io/) competition.
-You can checkout the Technical design Paper for this project [here](https://drive.google.com/file/d/1gMHdSiueBZalDLPn9yPsRakybKB0Rzj9/view?usp=sharing)
+You can checkout the Technical design Paper for this project [here](https://drive.google.com/file/d/1fCqUYimKm3L1I5nQykBsM-oOUlSMExZz/view?usp=drive_link)
 
 This workspace contains several key packages and resources to operate and simulate the robot.
 
